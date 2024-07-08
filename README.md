@@ -1,12 +1,11 @@
 AI Image Generation App:
-This project is a full-stack MERN application that generates images using AI, inspired by Midjourney and DALL-E.
+This project is a full-stack MERN application that generates images from text using AI.
 
-FEATURES
+FEATURES:
 Frontend: Built with React.js for a responsive user interface.
 Backend: Powered by Node.js and Express.js for server-side logic.
 Database: Utilizes MongoDB for storing user data and generated images.
-AI Integration: Implements AI models for generating images based on user input.
-Deployment: Deployed on a cloud service for accessibility.
+AI Integration: Generates images based on textual prompts using the OpenAI API.
 
 GETTING STARTED:
 Prerequisites:
@@ -14,9 +13,7 @@ Node.js
 MongoDB
 
 INSTALLATION:
-Clone the repository:
-git clone https://github.com/yourusername/ai-image-generation-app.git
-cd ai-image-generation-app
+Clone the repository.
 
 Install dependencies for both client and server:
 cd client
